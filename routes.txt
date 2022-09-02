@@ -1,0 +1,15 @@
+/login(post) : {email,password}
+
+/register(post) : {name,email,password}
+
+/logout(get)
+
+/getallstores(get)
+
+/createstore(post) :{shopname,descriptio,location,category,avatar}
+
+/storedashboard(get)
+
+/getallproducts(get)
+
+/createproduct(post) : {photo,price,name,description}
